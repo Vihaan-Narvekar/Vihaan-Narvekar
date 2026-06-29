@@ -8,11 +8,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=AI%20%7C%20Markets%20%7C%20Data%20Systems&fontSize=28&fontAlign=50&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Vihaan%20Narvekar&fontAlign=50&fontAlignY=40&color=0:0d1117,100:1f6feb&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Markets%20%7C%20Data%20Systems&descAlign=50&descAlignY=65" />
 
 ---
 
-Selected languages, libraries, and tools which I have experience in.
+Languages, libraries, and tools:
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/Language-SQL-darkblue?style=flat-square&logo=postgresql)
@@ -25,15 +25,4 @@ Selected languages, libraries, and tools which I have experience in.
 ![DuckDB](https://img.shields.io/badge/Tool-DuckDB-yellow?style=flat-square)
 ![Git](https://img.shields.io/badge/Tool-Git-red?style=flat-square&logo=git)
 
----
 
-### Projects
-
-**Kalshi Weather Market Research**  
-Prediction-market research pipeline using Kalshi order books, weather forecasts, NOAA observations, and no-leakage dataset construction.
-
-**FOMC LLM Classification**  
-LLM/NLP workflow for classifying central bank communication and comparing open-source vs. closed-source model performance.
-
-**Systematic ETF Strategy**  
-Regression-based market-timing research across SPY, QQQ, and IWM.
