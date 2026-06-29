@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Vihaan%20Narvekar&fontAlign=50&fontAlignY=40&color=0:0d1117,100:1f6feb&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Markets%20%7C%20Data%20Systems&descAlign=50&descAlignY=65" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Vihaan%20Narvekar&fontAlign=50&fontAlignY=40&color=0:0d1117,100:1f6feb&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Markets%20%7C%20Data%20Systems&descAlign=50&descAlignY=65" />](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&width=850&lines=Building+AI+systems+for+markets;Working+with+financial+and+economic+data;Interested+in+ML%2C+quant+research%2C+and+data+infrastructure)
 
 ---
 
