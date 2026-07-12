@@ -24,4 +24,7 @@ Languages, libraries, and tools:
 ![Scikit Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=flat-square&logo=scikitlearn)
 ![DuckDB](https://img.shields.io/badge/Tool-DuckDB-yellow?style=flat-square)
 
+![PyTorch](https://img.shields.io/badge/Tool-PyTorch-red?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-orange?style=flat-square)
+
 
