@@ -23,6 +23,5 @@ Languages, libraries, and tools:
 ![NumPy](https://img.shields.io/badge/Library-NumPy-blue?style=flat-square&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=flat-square&logo=scikitlearn)
 ![DuckDB](https://img.shields.io/badge/Tool-DuckDB-yellow?style=flat-square)
-![Git](https://img.shields.io/badge/Tool-Git-red?style=flat-square&logo=git)
 
 
